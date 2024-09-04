@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "cypress": "^13.13.2",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

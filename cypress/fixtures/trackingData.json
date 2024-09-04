@@ -1,0 +1,26 @@
+{
+    "link": "http://localhost:3000/",
+
+    "valid_credentials": {
+    "id": "1",
+    "password": "1",
+    "texts": [
+      "Stage 1: Order Received",
+      "Stage 2: Order Shipped",
+      "Stage 3: Order Received to Destination Country",
+      "Stage 4: Order Clearance Completed",
+      "Stage 5: Order in Delivery Stage",
+      "Stage 6: Order Delivered"
+    ],
+    "buttons": {
+      "done": "Done",
+      "pending": "Pending",
+      "rejected": "Rejected"
+    },
+    "message": "Shipment stages loaded successfully!"
+  },
+
+  "rejection_reason": ";lklklklkl",
+  "empty_reason_field_message": "Please provide a reason for rejection"
+
+}
